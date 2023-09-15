@@ -1,0 +1,56 @@
+{
+  "merks": [
+    {
+      "id": 1,
+      "nama_merk": "NVIDIA"
+    },
+    {
+      "id": 2,
+      "nama_merek": "AMD"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "nama_brand": "ZOTAC"
+    },
+    {
+      "id": 2,
+      "nama_brand": "ASUS"
+    },
+    {
+      "id": 3,
+      "nama_brand": "MSI"
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "level_gpu": "HIGH END"
+    },
+    {
+      "id": 2,
+      "level_gpu": "MID END"
+    },
+    {
+      "id": 3,
+      "level_gpu": "LOW END"
+    }
+  ],
+  "VGA": [
+    {
+      "id": 1,
+      "nama_vga": "GTX 1070",
+      "merkId": 1,
+      "brandId": 1,
+      "levelId": 1
+    },
+    {
+      "id": 2,
+      "nama_vga": "RX550",
+      "merkId": 2,
+      "brandId": 3,
+      "levelId": 2
+    }
+  ]
+}
